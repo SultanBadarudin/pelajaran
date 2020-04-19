@@ -1,2 +1,3 @@
 # pelajaran
-ini isi dari pembelajaran tentang komputer saya aja
+ini isi dari 
+> pembelajaran tentang *komputer* saya aja
